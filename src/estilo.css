@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+
+.fraseStyle{
+    font-style: italic;
+    font-size: 36px;
+    color: rgb(66, 196, 174);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.btnStyle{
+    font-size: 18px;
+    border-radius: 10px;
+    border-color: aquamarine;
+}
+.titleStyle{
+    margin-bottom: 0px;
+    font-family: 'Square Peg', cursive;
+    color:rgb(117, 66, 37);
+    font-size: 80px;
+}
+.footsie{
+    font-family: 'Square Peg', cursive;
+    font-size: 20px;
+}
